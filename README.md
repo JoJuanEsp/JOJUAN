@@ -1,7 +1,8 @@
 # JOJUAN
 # ¡Hola! Soy Juan José Espinel 👋
 
-<img width="1024" height="434" alt="banner final" src="https://github.com/user-attachments/assets/e5d8fe75-799f-41f5-8645-5f9b3d8702db" />
+<img width="1024" height="572" alt="7a594cba-db39-4904-8a51-47c3c36b28cf" src="https://github.com/user-attachments/assets/6a6b8ec0-e5f8-454b-9359-880803d68c25" />
+
 
 
 🎓 **Estudiante de Estadística** en la *Universidad Nacional de Colombia*  
